@@ -1,0 +1,23 @@
+{
+  "name": "node-palindrome-benchmark",
+  "version": "0.1.0",
+  "description": "Benchmark of palindrome algorithm in Node using Javascript vs C implementation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzarcon/node-palindrome-benchmark.git"
+  },
+  "author": "zzarcon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzarcon/node-palindrome-benchmark/issues"
+  },
+  "homepage": "https://github.com/zzarcon/node-palindrome-benchmark#readme",
+  "dependencies": {
+    "palindrome": "^0.1.1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0"
+  }
+}
